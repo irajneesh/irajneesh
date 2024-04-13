@@ -1,4 +1,14 @@
-### Hi there 👋
+### About me
+Hi I am Rajneesh kumar singh 👋
+- 📫 Good with Front-End tech Stacks.[HTML , CSS ]
+- 🔭 I’m currently Learning javascript
+
+
+| Rank | Languages |
+|-----:|---------------|
+|     1|   JavaScript  |
+|     2|   java        |
+|     3|   C/C++       |
 
 <!--
 **irajneesh/irajneesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
