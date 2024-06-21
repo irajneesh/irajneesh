@@ -1,6 +1,7 @@
 ### About me
-Hi I am Rajneesh kumar singh 👋
-- 📫 Good with Front-End tech Stacks.[HTML , CSS ]
+Welcome to my Profile.
+I am Rajneesh kumar singh 👋
+- 📫 Front-End tech Stacks.[HTML , CSS ]
 - 🔭 I’m currently Learning javascript
 
 
